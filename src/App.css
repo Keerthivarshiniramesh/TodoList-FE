@@ -1,0 +1,64 @@
+body {
+  background-color: aliceblue;
+}
+
+.add {
+  width: 1000px;
+  height: 100px;
+  margin-left: 100px;
+}
+
+.img1 {
+  right: 200px;
+}
+
+.add1 {
+  right: 150px;
+}
+
+input::placeholder {
+  color: rgb(163, 163, 163) !important;
+}
+
+.tab {
+  margin-left: 25px;
+  margin-right: 30px;
+}
+
+.hori {
+  width: 1200px;
+  height: 3px;
+  margin-left: 60px;
+}
+
+.dis {
+  width: 40px;
+  height: 35px;
+  padding-right: 10px;
+
+}
+
+.set {
+  padding-top: 60px;
+  padding-left: 30px;
+
+}
+
+.inpu {
+  border: none;
+  background-color: aliceblue;
+}
+
+.inpu:focus {
+  outline: none;
+}
+
+.dates {
+  right: 410px;
+}
+
+.hori1 {
+  width: 1200px;
+  height: 3px;
+
+}
