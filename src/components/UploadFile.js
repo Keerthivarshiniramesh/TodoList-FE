@@ -45,7 +45,7 @@ export default function UploadFile() {
             for (let pair of form.entries()) {
                 console.log("Forms :", pair[0] + ': ' + pair[1]);
             }
-
+            console.log(beurl)
             fetch(`${beurl}add_data`, {
                 method: "POST",
                 credentials: "include",
